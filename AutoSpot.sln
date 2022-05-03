@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSpot", "AutoSpot\AutoSpot.csproj", "{45CB5B17-017B-40D9-B17C-F6508DE0DCEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45CB5B17-017B-40D9-B17C-F6508DE0DCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CB5B17-017B-40D9-B17C-F6508DE0DCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CB5B17-017B-40D9-B17C-F6508DE0DCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CB5B17-017B-40D9-B17C-F6508DE0DCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8961FB63-40CC-4D1A-B442-626B2D6682C6}
+	EndGlobalSection
+EndGlobal
